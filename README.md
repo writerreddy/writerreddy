@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Deepak M</h1>
 
 <h3 align="center">
-Software Engineer | Java • Spring Boot • React.js | Building Reliable Enterprise Applications
+Software Engineer | AI/ML Engineer | Generative AI Developer <br/>
+Java • Spring Boot • Python • React.js • Building Intelligent Applications
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;Backend+Development+%7C+REST+APIs;Cloud+Native+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;AI%2FML+Engineer;Generative+AI+%7C+RAG+Applications;Machine+Learning+%7C+LLM+Applications;Cloud+Native+Backend+Development" />
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@ Software Engineer | Java • Spring Boot • React.js | Building Reliable Enterp
 </a>
 
 <a href="tel:+918197173868">
-  <img src="https://img.shields.io/badge/Phone-%2B91%2081971%2073868-25D366?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+<img src="https://img.shields.io/badge/Phone-%2B91%2081971%2073868-25D366?style=for-the-badge&logo=googlemessages&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=writerreddy&label=Profile%20Views&style=for-the-badge&color=3FB950"/>
@@ -30,33 +31,21 @@ Software Engineer | Java • Spring Boot • React.js | Building Reliable Enterp
 
 # 👨‍💻 About Me
 
-- 💼 Software Engineer with **1.1 years of enterprise experience** developing cloud-native applications.
-- 🚀 Experienced in **Java, Spring Boot, React.js, REST APIs, PostgreSQL, Docker and AWS**.
-- 🔒 Improved application security by fixing critical production vulnerabilities.
-- ⚡ Developed enterprise backend services, CI/CD pipelines and scalable data processing workflows.
-- 📈 Built ETL pipelines processing **1.6M+ production records** with complete data integrity.
-- 🌱 Currently learning **System Design, Microservices and Distributed Systems**.
-- 💬 Ask me about **Java • Spring Boot • REST APIs • React • PostgreSQL • AWS**
+🔭 Software Engineer building scalable enterprise applications and AI-powered solutions with experience delivering production software at Advarra, a clinical-trial SaaS platform.
 
----
+🤖 I build full-stack applications and intelligent AI systems by combining backend engineering, machine learning, Generative AI, and LLM-powered workflows.
 
-# 🏢 Professional Experience
+🛠️ Built enterprise backend services, automation pipelines, and AI applications using Java, Spring Boot, Python, FastAPI, and modern AI frameworks.
 
-## Software Engineer I — Advarra
+🧠 Developed Enterprise Support Copilot — an AI-powered helpdesk assistant using ML classification, RAG pipelines, LangGraph workflows, and MLflow for intelligent ticket handling and knowledge retrieval.
 
-✔ Delivered **15+ production features** across multiple Agile release cycles.
+⚡ Experienced in building production-grade systems including REST APIs, ETL pipelines processing 1.6M+ records, cloud-native applications, and AI-driven automation workflows.
 
-✔ Fixed a critical **SSRF security vulnerability** through secure URL validation.
+🌱 Currently exploring Agentic AI, Retrieval-Augmented Generation (RAG), LLM orchestration, vector databases, MLOps, and distributed systems.
 
-✔ Resolved SSO authentication issues impacting **500+ daily users**.
+💬 Ask me about Java · Spring Boot · Python · FastAPI · Generative AI · RAG · AI Agents · REST APIs · Cloud Architecture
 
-✔ Built ETL pipelines processing **1.6M+ production records**.
-
-✔ Automated monitoring pipelines using **GitHub Actions** and **Allure**.
-
-✔ Improved backend quality through **JUnit, Mockito, SonarQube and SOLID principles**.
-
-✔ Delivered complete product features independently from requirement gathering to production deployment.
+🚀 Passionate about building reliable software where traditional engineering meets artificial intelligence.
 
 ---
 
@@ -74,23 +63,30 @@ Software Engineer | Java • Spring Boot • React.js | Building Reliable Enterp
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,postgres,mysql,hibernate,maven,docker,aws,git,github,linux,vscode,idea&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,python,spring,react,js,postgres,mysql,hibernate,maven,docker,aws,git,github,tensorflow,pytorch,linux&theme=dark&perline=8"/>
 
 </p>
-
----
 
 # 🚀 Featured Projects
 
 | Project | Technologies | Description |
 |----------|-------------|-------------|
-| **Task Tracker API** | Java • Spring Boot • PostgreSQL • JUnit | Enterprise Task Management REST API with layered architecture, validation and testing |
+| **Enterprise Support Copilot** | Python • FastAPI • ML • RAG • LangGraph • MLflow | AI-powered enterprise support assistant using machine learning, retrieval systems and agent workflows |
+| **Task Tracker API** | Java • Spring Boot • PostgreSQL • JUnit | Enterprise task management REST API with layered architecture, validation and testing |
 | **Smart Parking Management** | Java • Spring Boot • H2 • Cucumber | Smart parking allocation system with booking management and BDD testing |
 | **MuziVerse** | React.js • JavaScript | Spotify-inspired responsive music streaming web application |
 | **Be Safe** | Android • Java • Firebase | Patent-filed women safety application with live GPS tracking |
 
 ---
 
-⭐ Open to Software Engineer • Backend Engineer • Full Stack Engineer opportunities.
+# 🎯 Current Focus
 
-</p>
+🤖 Generative AI Engineering  
+🧠 LLM Applications & RAG Systems  
+⚙️ AI Agents & Workflow Automation  
+☁️ Cloud-Native Backend Development  
+🏗️ System Design & Distributed Systems  
+
+---
+
+⭐ Open to **Software Engineer • Backend Engineer • AI/ML Engineer • Generative AI Engineer** opportunities.
